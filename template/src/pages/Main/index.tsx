@@ -12,7 +12,7 @@ import { setTitleExample } from '~/store/main/actions';
 
 function Main(props: any) {
   React.useEffect(() => {
-    props.setTitleExample('Bem-vindo ao Template Básico!');
+    props.setTitleExample('Bem-vindo ao Template com TypeScript!');
   }, []);
 
   return (
@@ -28,7 +28,7 @@ function Main(props: any) {
       <Text style={styles.welcome}>{props.title}</Text>
       <Text style={styles.instructions}>Essa é a tela principal da sua aplicação =)</Text>
       <Text style={styles.instructions}>Você pode editar a tela no arquivo:</Text>
-      <Text style={[styles.instructions, styles.fileName]}>src/pages/Main/index.js</Text>
+      <Text style={[styles.instructions, styles.fileName]}>src/pages/Main/index.tsx</Text>
     </View>
   );
 };
