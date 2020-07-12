@@ -1,0 +1,72 @@
+{
+  "name": "gok-typescript",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
+  },
+  "dependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.0",
+    "axios": "latest",
+    "react-native-gesture-handler": "latest",
+    "@react-navigation/native": "latest",
+    "@react-navigation/stack": "latest",
+    "react-native-reanimated": "latest",
+    "react-native-screens": "latest",
+    "react-native-safe-area-context": "latest",
+    "@react-native-community/masked-view": "latest",
+    "styled-components": "latest",
+    "redux": "latest",
+    "redux-thunk": "latest",
+    "react-redux": "latest"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react-test-renderer": "16.13.1",
+    "@babel/core": "latest",
+    "@babel/runtime": "latest",
+    "@react-native-community/eslint-config": "latest",
+    "babel-eslint": "latest",
+    "babel-plugin-module-resolver": "latest",
+    "babel-plugin-root-import": "latest",
+    "babel-preset-react-native": "latest",
+    "babel-plugin-transform-remove-console": "latest",
+    "eslint": "latest",
+    "eslint-config-airbnb": "latest",
+    "eslint-import-resolver-babel-plugin-root-import": "latest",
+    "eslint-plugin-import": "latest",
+    "eslint-plugin-jsx-a11y": "latest",
+    "eslint-plugin-react": "latest",
+    "eslint-plugin-react-native": "latest",
+    "prettier": "latest",
+    "babel-jest": "latest",
+    "eslint-plugin-prettier": "latest",
+    "eslint-config-prettier": "latest",
+    "eslint-import-resolver-babel-module": "latest",
+    "@types/jest": "latest",
+    "@types/axios": "latest",
+    "@types/react-native": "latest",
+    "@types/react-test-renderer": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "@types/styled-components": "latest",
+    "typescript": "latest"
+  },
+  "jest": {
+    "preset": "react-native",
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "jsx",
+      "json",
+      "node"
+    ]
+  }
+}

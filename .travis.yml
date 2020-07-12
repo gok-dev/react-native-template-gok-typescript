@@ -1,10 +1,10 @@
 language: node_js
-
+node_js:
+  - 'node'
 deploy:
-  provider: npm
-  email: $EMAIL
-  api_key:
-    secure: $API_KEY
   on:
     tags: true
-    repo: gok-dev/react-native-template-gok-typescript
+  provider: npm
+  email: 'julio.sousa@gok.digital'
+  api_key: '${NPM_TOKEN}'
+  skip_cleanup: true
