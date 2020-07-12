@@ -1,0 +1,26 @@
+{
+  "name": "react-native-template-gok-typescript",
+  "version": "0.0.1",
+  "description": "Template para projetos em React Native, com Estrutura de Pastas customizada, Estilos Globais, ESLint + Prettier + Babel Plugin Root Import, React Navigation, Redux, TypeScript e Axios configurados.",
+  "keywords": [
+    "react-native",
+    "template",
+    "gok",
+    "eslint",
+    "react-navigation",
+    "reactotron",
+    "babel-root-import",
+    "axios",
+    "typescript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gok-dev/react-native-template-gok-typescript.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "homepage": "https://github.com/gok-dev/react-native-template-gok-typescript#readme",
+  "author": "Julio Augusto <julio.sousa@gok.digital>",
+  "license": "MIT"
+}
