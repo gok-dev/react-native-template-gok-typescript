@@ -1,11 +1,11 @@
 <!-- PROJECT SHIELDS -->
 
-[![npm](https://img.shields.io/npm/v/react-native-template-gok-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-gok-basic)
-[![npm](https://img.shields.io/npm/dt/react-native-template-gok-basic.svg)](https://www.npmjs.com/package/react-native-template-gok-basic)
-[![GitHub issues](https://img.shields.io/github/issues-raw/gok-dev/react-native-template-gok-basic.svg)](https://github.com/gok-dev/react-native-template-gok-basic/issues)
-[![GitHub last commit](https://img.shields.io/github/last-commit/gok-dev/react-native-template-gok-basic.svg)](https://github.com/gok-dev/react-native-template-gok-basic/commits/master)
-[![NPM](https://img.shields.io/npm/l/react-native-template-gok-basic.svg)](https://choosealicense.com/licenses/mit)
-[![Maintainability](https://api.codeclimate.com/v1/badges/8e02f294cb91173f208d/maintainability)](https://codeclimate.com/github/gok-dev/react-native-template-gok-basic/maintainability)
+[![npm](https://img.shields.io/npm/v/react-native-template-gok-typescript.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-gok-typescript)
+[![npm](https://img.shields.io/npm/dt/react-native-template-gok-typescript.svg)](https://www.npmjs.com/package/react-native-template-gok-typescript)
+[![GitHub issues](https://img.shields.io/github/issues-raw/gok-dev/react-native-template-gok-typescript.svg)](https://github.com/gok-dev/react-native-template-gok-typescript/issues)
+[![GitHub last commit](https://img.shields.io/github/last-commit/gok-dev/react-native-template-gok-typescript.svg)](https://github.com/gok-dev/react-native-template-gok-typescript/commits/master)
+[![NPM](https://img.shields.io/npm/l/react-native-template-gok-typescript.svg)](https://choosealicense.com/licenses/mit)
+[![Maintainability](https://api.codeclimate.com/v1/badges/2dee7b24d9197e9482c1/maintainability)](https://codeclimate.com/github/gok-dev/react-native-template-gok-typescript/maintainability)
 
 <!-- PROJECT LOGO -->
 <br />
