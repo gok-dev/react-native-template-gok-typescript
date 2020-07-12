@@ -18,7 +18,7 @@
     "url": "git+https://github.com/gok-dev/react-native-template-gok-typescript.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org"
   },
   "homepage": "https://github.com/gok-dev/react-native-template-gok-typescript#readme",
   "author": "Julio Augusto <julio.sousa@gok.digital>",
