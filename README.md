@@ -17,10 +17,10 @@
   <h3 align="center">Template Gok TypeScript</h3>
 </p>
 
-### Note on the legacy CLI
-There seems to be quite some confusion about the legacy CLI. This template only works with the new CLI. Make sure you have uninstalled the legacy `react-native-cli` first (`npm uninstall -g react-native-cli`), for the below command to work. If you wish to not use `npx`, you can also install the new CLI globally (`npm i -g @react-native-community/cli` or `yarn global add @react-native-community/cli`).
+### Nota sobre a antiga CLI do React Native
+Este template funciona apenas com a nova CLI do React Native. Certifique-se de ter desinstalado primeiro a antiga CLI - `react-native-cli`, para fazer isso rode o comando `npm uninstall -g react-native-cli`. Se você não quiser usar o NPX poderá instalar a nova CLI globalmente com o comando `npm i -g @react-native-community/cli` ou `yarn global add @react-native-community/cli`.
 
-Further information can be found here: https://github.com/react-native-community/cli#about
+Informações adicionais podem ser encontradas aqui: https://github.com/react-native-community/cli#about
 
 <!-- TABLE OF CONTENTS -->
 
@@ -125,7 +125,7 @@ Serão explicados os arquivos e diretórios na seção de [Edição](#edição).
 1. Para instalar e utilizar esse template o processo é bem simples, basta criar um projeto novo utilizando o comando:
 
 ```sh
-react-native init AwesomeExample --template gok-typescript
+npx react-native init MyApp --template react-native-template-gok-typescript
 ```
 
 2. Depois do projeto criado você pode deletar o arquivo `App.js` da raiz, pois o arquivo `index.js` agora aponta para a pasta **src**.
