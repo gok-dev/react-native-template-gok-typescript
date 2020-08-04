@@ -8,7 +8,7 @@ import {
   StatusBar
 } from 'react-native';
 import { connect } from 'react-redux';
-import { setTitleExample } from '~/store/main/actions';
+import { setTitleExample } from '../../store/main/actions';
 
 function Main(props: any) {
   React.useEffect(() => {

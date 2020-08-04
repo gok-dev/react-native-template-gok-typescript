@@ -3,7 +3,7 @@ import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 
 // Pages
-import Main from '~/pages/Main';
+import Main from '../pages/Main';
 
 const RootStack = createStackNavigator();
 
