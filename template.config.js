@@ -1,4 +1,4 @@
 module.exports = {
-  placeholderName: 'GokTypescript',
+  placeholderName: 'HelloWorld',
   templateDir: './template',
 }
